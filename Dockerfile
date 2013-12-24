@@ -1,5 +1,6 @@
 # Docker file for znc-1.2
 # Builds ZNC from scratch (for now inside an LXC)
+# Will push the config directory from ./znc 
 
 FROM ubuntu
 
